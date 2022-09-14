@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .text-shadow {
+        text-shadow: 0 2px 4px rgb(0, 0, 0);
+    }
+
+    .text-shadow-none {
+        text-shadow: none;
+    }
+
+    .text-stroke {
+        -webkit-text-stroke-width: 1px;
+        -webkit-text-stroke-color: black;
+    }
+}
