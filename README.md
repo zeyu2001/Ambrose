@@ -34,11 +34,12 @@ I currently do not have plans to publish this extension to the Chrome Web Store.
 
 Here's how you can install it manually.
 
-1. Click on Code > Download ZIP
-2. In Chrome, go to [chrome://extensions](chrome://extensions)
-3. Turn on "Developer mode"
-4. Click "Load unpacked"
-5. Browse to the `build` directory in this repository
+1. Download `Ambrose-x.x.x.zip` from the [latest release](https://github.com/zeyu2001/Ambrose/releases)
+2. Unzip this file.
+3. In Chrome, go to [chrome://extensions](chrome://extensions)
+4. Turn on "Developer mode"
+5. Click "Load unpacked"
+6. Browse to the `build` directory in this repository
 
 ## Security
 
