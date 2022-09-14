@@ -2,7 +2,7 @@
 
 ## What This Is
 
-This is a Chrome extension to easily answer [Wizard101 trivia quizzes](https://www.wizard101.com/game/trivia). You ean answer up to 10 trivia quizzes per day to earn Crowns.
+This is a Chrome extension to easily answer [Wizard101 trivia quizzes](https://www.wizard101.com/game/trivia). You can answer up to 10 trivia quizzes per day to earn Crowns.
 
 1. Removes artificial fade-in loading animation and highlights the correct answer.
 
@@ -20,7 +20,7 @@ This is a Chrome extension to easily answer [Wizard101 trivia quizzes](https://w
 
 **TL;DR: I don't think so.**
 
-According to the [Terms of Service](https://www.wizard101.com/game/termsofuse), one cannot use any robot, spider or other autometic device to access the site.
+According to the [Terms of Service](https://www.wizard101.com/game/termsofuse), one cannot use any robot, spider or other automatic device to access the site.
 
 > You agree that you will not (a) use any robot, spider or other automatic device, process or means to access the Site, (b) use any manual process to monitor or copy any of the material on this site or for any other unauthorized purpose without the prior written consent of the Company, (c) use any device, software or routine that interferes with the proper working of the Site, (d) attempt to interfere with the proper working of the Site, (e) take any action that imposes an unreasonable or disproportionately large load on the Company’s infrastructure, or (f) access, reload or “refresh” transactional pages, or make any other request to transactional servers, more than once during any three (3) second interval.
 
@@ -61,7 +61,7 @@ This extension does not store any information about you or your Wizard101 accoun
 
 Importantly, the extension only ever has access to `https://www.wizard101.com/quiz/trivia/game/*` URLs and the Chrome extension storage API. This means that the extension does not run on any URLs other than the trivia-specific ones.
 
-Just like any other software, my advice would be to take a look for yourself and see if this is something you trust. Permissions are configured in the [`manifest.json`](./public/manifest.json) file.
+Like any other software, I would advise you to look for yourself and see if this is something you trust. Permissions are configured in the [`manifest.json`](./public/manifest.json) file.
 
 ## Contributing
 
