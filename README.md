@@ -1,5 +1,9 @@
 # Ambrose
 
+![GitHub all releases](https://img.shields.io/github/downloads/zeyu2001/Ambrose/total) ![License](https://img.shields.io/github/license/zeyu2001/Ambrose) ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/zeyu2001/Ambrose)
+
+![GitHub followers](https://img.shields.io/github/followers/zeyu2001?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/zeyu2001?style=social)
+
 ## What This Is
 
 This is a Chrome extension to easily answer [Wizard101 trivia quizzes](https://www.wizard101.com/game/trivia). You can answer up to 10 trivia quizzes per day to earn Crowns.
