@@ -39,7 +39,7 @@ Here's how you can install it manually.
 3. In Chrome, go to [chrome://extensions](chrome://extensions)
 4. Turn on "Developer mode"
 5. Click "Load unpacked"
-6. Browse to the `build` directory in this repository
+6. Browse to the extracted folder
 
 ## Security
 
