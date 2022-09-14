@@ -2,7 +2,19 @@
 
 ## What This Is
 
-This is a Chrome extension to easily answer [Wizard101 trivia questions](https://www.wizard101.com/game/trivia). You ean answer 10 trivia quizzes per day to earn Crowns.
+This is a Chrome extension to easily answer [Wizard101 trivia quizzes](https://www.wizard101.com/game/trivia). You ean answer up to 10 trivia quizzes per day to earn Crowns.
+
+1. Removes artificial fade-in loading animation and highlights the correct answer.
+
+    ![demo.gif](./screenshots/demo.gif)
+
+2. Extension popup with links to all supported quizzes
+
+    ![popup1.png](./screenshots/popup1.png)
+
+3. Track when you last completed quizzes and when you can complete them again (22 hour cooldown)
+
+    ![popup2.png](./screenshots/popup2.png)
 
 ## Is This Against TOS?
 
