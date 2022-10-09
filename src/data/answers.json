@@ -220,7 +220,7 @@
         ],
         [
             "Who was the 41st president of the United States?",
-            "George W. H. Bush"
+            "George H. W. Bush"
         ],
         [
             "Who was the 42nd president of the United States?",
@@ -385,7 +385,7 @@
             "Carnivores"
         ],
         [
-            "How far can a lions's roar be heard from?",
+            "How far can a lion's roar be heard from?",
             "5 miles"
         ],
         [
@@ -397,7 +397,7 @@
             "poaching and habitat destruction"
         ],
         [
-            "Tigers are often poached for their parts, used in traditional ________ medicine.",
+            "Tigers are often poached for their parts, used in traditional _________ medicine.",
             "Chinese"
         ],
         [
@@ -487,11 +487,11 @@
             "The Adventures of Huckleberry Finn"
         ],
         [
-            "\"All animals are equal, but some animals are more equal than others\"",
+            "\"All animals are equal, but some animals are more equal than others.\"",
             "Animal Farm"
         ],
         [
-            "\"All grown-ups were once children\"but only few of them remember it.\"",
+            "\"All grown-ups were once children - but only few of them remember it.\"",
             "The Little Prince"
         ],
         [
@@ -503,7 +503,7 @@
             "The Catcher in the Rye"
         ],
         [
-            "\"I wanted you to see what real courage is, instead of getting the idea that courage is a man with a gun in his hand. It\"s when you know you\"re licked before you begin but you begin anyway and you see it through no matter what.\"",
+            "\"I wanted you to see what real courage is, instead of getting the idea that courage is a man with a gun in his hand. It's when you know you're licked before you begin but you begin anyway and you see it through no matter what.\"",
             "To Kill a Mockingbird"
         ],
         [
@@ -515,7 +515,7 @@
             "The Scarlet Letter"
         ],
         [
-            "\"Most people were heartless about turtles because a turtle\"s heart will beat for hours after it has been cut up and butchered. But the old man thought, I have such a heart too.\"",
+            "\"Most people were heartless about turtles because a turtle's heart will beat for hours after it has been cut up and butchered. But the old man thought, I have such a heart too.\"",
             "The Old Man and the Sea"
         ],
         [
@@ -937,6 +937,10 @@
         [
             "Which sentence correctly uses an apostrophe?",
             "The horse's tail is so pretty."
+        ],
+        [
+            "Which sentence correctly uses an apostrophe?",
+            "I can't do it, because it is too hard."
         ],
         [
             "Which sentence uses a semi-colon correctly?",
@@ -1664,11 +1668,39 @@
         ],
         [
             "What gang does the Magnificent Seven fight in Tumbleweed Skyway?",
-            "The WIld Bunch"
+            "The Wild Bunch"
         ],
         [
             "General Tso's favorite pet is?",
             "A Chicken"
+        ],
+        [
+            "What member of Kane's court is the Armada's Spymaster?",
+            "Deacon"
+        ],
+        [
+            "Who is the bartender of the Kraken Skulls Tavern?",
+            "Skinny Pete"
+        ],
+        [
+            "What does the Frogfather ask you to steal from The Presidio?",
+            "Spices"
+        ],
+        [
+            "How many slingshots do the Troggies have set up on Skull Mountain?",
+            "3"
+        ],
+        [
+            "Who is also known as The Gold Monkey?",
+            "Gortez"
+        ],
+        [
+            "Where do you find your parent's ship?",
+            "Jonah Town"
+        ],
+        [
+            "Who is the owner of The Black Spot?",
+            "One Eyed Jack"
         ]
     ],
     "Primates": [
@@ -2098,7 +2130,7 @@
         ],
         [
             "What is the state bird of Delaware?",
-            "Delaware Blue Hen"
+            "Blue Hen Chicken"
         ],
         [
             "What is the state bird of Florida?",
@@ -2161,7 +2193,7 @@
             "Common Loon"
         ],
         [
-            "What is the state bird of Mississippi ?",
+            "What is the state bird of Mississippi?",
             "Mockingbird"
         ],
         [
@@ -2217,7 +2249,7 @@
             "Western Meadowlark"
         ],
         [
-            "What is the state bird of Pennysylvania?",
+            "What is the state bird of Pennsylvania?",
             "Ruffed Grouse"
         ],
         [
@@ -2364,7 +2396,7 @@
         ],
         [
             "What is the capital of Mississippi?",
-            "Annapolis"
+            "Jackson"
         ],
         [
             "What is the capital of Missouri?",
@@ -2468,7 +2500,7 @@
         ],
         [
             "What is the capital of Wyoming?",
-            "Chenyenne"
+            "Cheyenne"
         ]
     ],
     "State Nicknames": [
@@ -2770,11 +2802,11 @@
         ],
         [
             "In Grizzleheim, the Ravens want to bring about:",
-            "The Everwinter, to cover the world in ice."
+            "The Everwinter, to cover the world in ice:"
         ],
         [
             "Shaka Zebu is known best as:",
-            "The Greatest Living Zebra"
+            "The Greatest Living Zebra Warrior"
         ],
         [
             "What determines the colors of the manders in Krok?",
@@ -2806,7 +2838,7 @@
         ],
         [
             "What is unique about Falmea's Classroom?",
-            "There are scortch marks on the celing"
+            "There are scorch marks on the ceiling"
         ],
         [
             "What school is the Gurtok Demon focused on?",
@@ -2823,6 +2855,10 @@
         [
             "Which Aztecan ponders the Great Questions of Life?",
             "Philosoraptor"
+        ],
+        [
+            "Which of these are not a lore spell?",
+            "Fire Dragon"
         ],
         [
             "Which of these is NOT a Zafaria Anchor Stone?",
@@ -2893,7 +2929,7 @@
     ],
     "Wizard101 Magical": [
         [
-            "How many worlds of The Spiral are unlocked as of May 21st 2014?",
+            "How many worlds of The Spiral are unlocked as of May 21st, 2014?",
             "12"
         ],
         [
@@ -2921,6 +2957,10 @@
             "Heart"
         ],
         [
+            "What is the title of the book that is floating around the Wizard City Library?",
+            "Basic Wizarding & Proper Care of Familiars"
+        ],
+        [
             "What's the name of the balance tree?",
             "Niles"
         ],
@@ -2934,7 +2974,7 @@
         ],
         [
             "Which of these locations is not in Wizard City?",
-            "Digmroe Station"
+            "Digmore Station"
         ],
         [
             "Which one of these are not a symbol on the battle sigil?",
@@ -2953,7 +2993,7 @@
             "Mrs. Dowager"
         ],
         [
-            "Who prophesizes this? \"The mirror will break, The horn will call, From the shadows I strike, And the skies will fall...\"",
+            "Who prophesizes this? \"The mirror will break, The horn will call, From the shadows I strike , And the skies will fall...\"",
             "Morganthe"
         ],
         [
@@ -2975,7 +3015,7 @@
     ],
     "Wizard101 Marleybone": [
         [
-            "Arthur Wethersfield is A:.. ",
+            "Arthur Wethersfield is A:..",
             "Dog"
         ],
         [
@@ -3094,7 +3134,7 @@
         ],
         [
             "Which villain terrorizes the fair maidens of Marleybone?",
-            "Jaques the Scratcher"
+            "Jaques the Scatcher"
         ],
         [
             "Who asks you to find Khrysanthemums?",
@@ -3222,7 +3262,7 @@
     "Wizard101 Spells": [
         [
             "Cassie the Ponycorn teaches this kind of spell:",
-            "Prisms"
+            "Prism"
         ],
         [
             "Ether Shield protects against what?",
@@ -3293,7 +3333,7 @@
             "Entangle"
         ],
         [
-            "Who can teach you the Life Shield Spell",
+            "Who can teach you the Life Shield Spell?",
             "Sabrina Greenstar"
         ],
         [
@@ -3303,7 +3343,7 @@
     ],
     "Wizard101 Wizard City": [
         [
-            "What are the main colors for the myth school?",
+            "What are the main colors for the Myth School?",
             "Blue and Gold"
         ],
         [
@@ -3311,7 +3351,7 @@
             "Tan and Maroon"
         ],
         [
-            "What does every rotting fodder in the dark caves carry with them?",
+            "What does every Rotting Fodder in the Dark Caves carry with them?",
             "A spade"
         ],
         [
@@ -3319,7 +3359,7 @@
             "Diego Santiago Quariquez Ramirez the Third"
         ],
         [
-            "What is something that the gobblers are NOT stockpiling in Colossus Way?",
+            "What is something that the Gobblers are NOT stockpiling in Colossus Way?",
             "Broccoli"
         ],
         [
@@ -3355,7 +3395,7 @@
             "Fairegrounds"
         ],
         [
-            "Who is the fire school professor?",
+            "Who is the Fire School professor?",
             "Dalia Falmea"
         ],
         [
@@ -3371,7 +3411,7 @@
             "Lady Oriel"
         ],
         [
-            "Who sang the Dragons, Titans and Giants into existance?",
+            "Who sang the Dragons, Tritons and Giants into existance?",
             "Bartleby"
         ],
         [
@@ -3398,7 +3438,7 @@
         ],
         [
             "Inyanga calls Umlio a:",
-            "Fire Feather"
+            "Fire feather"
         ],
         [
             "Jambo means:",
