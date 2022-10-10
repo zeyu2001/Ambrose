@@ -277,7 +277,7 @@
             "Senet"
         ],
         [
-            "What type of animal did Ancient Egypt not typically keep as a pet?",
+            "What type of animal did Ancient Egyptians not typically keep as a pet?",
             "Hippo"
         ],
         [
@@ -297,7 +297,11 @@
             "Animal Calendar"
         ],
         [
-            "Which of these animals considered sacred by Ancient Egyptians?",
+            "Which of the following was not invented by the Ancient Egyptians?",
+            "Horse saddles"
+        ],
+        [
+            "Which of these animals was considered sacred by Ancient Egyptians?",
             "Cat"
         ],
         [
@@ -323,6 +327,10 @@
             "Cernan"
         ],
         [
+            "Which mission broadcasted some of the first live television pictures from space?",
+            "Apollo 8"
+        ],
+        [
             "Which mission cancelled their landing on the moon due to technical problems?",
             "Apollo 13"
         ],
@@ -341,10 +349,6 @@
         [
             "Which mission provided the first color video images from the surface of the moon?",
             "Apollo 14"
-        ],
-        [
-            "Which mission sent broadcasted some of the first live television pictures from space?",
-            "Apollo 8"
         ],
         [
             "Which mission used the Lunar RV for the first time?",
@@ -557,7 +561,7 @@
             "Sulfur"
         ],
         [
-            "This element give plants the energy they need to grow.",
+            "This element helps give plants the energy they need to grow.",
             "P"
         ],
         [
@@ -609,6 +613,10 @@
         [
             "Aquila is a constellation named after what bird?",
             "Eagle"
+        ],
+        [
+            "Aries is a constellation named after what animal?",
+            "Ram"
         ],
         [
             "Cancer is a constellation in the shape of what animal?",
@@ -997,6 +1005,10 @@
             "Margaret Mitchell"
         ],
         [
+            "Who wrote Invisible Man?",
+            "Ralph Ellison"
+        ],
+        [
             "Who wrote Lolita?",
             "Vladimir Nabokov"
         ],
@@ -1015,6 +1027,10 @@
         [
             "Who wrote On the Road?",
             "Jack Kerouac"
+        ],
+        [
+            "Who wrote One Flew Over the Cuckoo's Nest?",
+            "Ken Kesey"
         ],
         [
             "Who wrote Slaughterhouse-Five?",
@@ -1278,7 +1294,7 @@
         ],
         [
             "What is a habitat?",
-            "The natural home or environment of an animal, plant, or other organism"
+            "The natural home or environment of an animal, plant, or other organism."
         ],
         [
             "What is the coldest habitat?",
@@ -1295,10 +1311,6 @@
         [
             "What kind of a climate does a swamp have?",
             "Warm, wet, humid"
-        ],
-        [
-            "What type of habitat can be found in all ranges of climate?",
-            "Temperate Forests"
         ],
         [
             "What type of plant grows in the desert?",
@@ -1335,6 +1347,10 @@
         [
             "Which of the following is NOT part of the Ocean landscape?",
             "Hills"
+        ],
+        [
+            "Which type of habitat can be found in all ranges of climate?",
+            "Temperate Forests"
         ]
     ],
     "Heart": [
@@ -1557,6 +1573,14 @@
             "Beauty, innocence, peace and rebirth"
         ],
         [
+            "Norse Mythology is the mythology from what group of people?",
+            "North Germanic"
+        ],
+        [
+            "Who was Odin's father?",
+            "Borr"
+        ],
+        [
             "Who was the first Norse god?",
             "Buri"
         ],
@@ -1571,6 +1595,14 @@
         [
             "Who was the god of justice, peace and truth?",
             "Forseti"
+        ],
+        [
+            "Who was the god of mischief?",
+            "Loki"
+        ],
+        [
+            "Who was the god of poetry, music and the harp?",
+            "Bragi"
         ],
         [
             "Who was the god of revenge?",
@@ -1589,6 +1621,10 @@
             "Dagr"
         ],
         [
+            "Who was the god of thunder and battle?",
+            "Thor"
+        ],
+        [
             "Who was the god of war and the \"All Father\"?",
             "Odin"
         ],
@@ -1605,12 +1641,32 @@
             "Eir"
         ],
         [
+            "Who was the goddess of joy and peace?",
+            "Nanna"
+        ],
+        [
             "Who was the goddess of marriage and motherhood?",
             "Frigg"
         ],
         [
+            "Who was the goddess of night?",
+            "Nott"
+        ],
+        [
+            "Who was the goddess of old age?",
+            "Elli"
+        ],
+        [
             "Who was the goddess of prudence?",
             "Snotra"
+        ],
+        [
+            "Who was the goddess of spring?",
+            "Eostre"
+        ],
+        [
+            "Who was the goddess of the sea?",
+            "Ran"
         ],
         [
             "Who was the goddess of the sun?",
@@ -1705,7 +1761,7 @@
     ],
     "Primates": [
         [
-            "Roughly how many species of primate does the IUCN recognize?",
+            "Roughly how many species of primates does the IUCN recognize?",
             "600"
         ],
         [
@@ -1903,6 +1959,14 @@
             "Grizzly Bear"
         ],
         [
+            "What is the state animal of Colorado?",
+            "Rocky Mountain Bighorn Sheep"
+        ],
+        [
+            "What is the state animal of Connecticut?",
+            "Sperm Whale"
+        ],
+        [
             "What is the state animal of Florida?",
             "Florida Panther"
         ],
@@ -1915,8 +1979,16 @@
             "American Buffalo"
         ],
         [
+            "What is the state animal of Maine?",
+            "Moose"
+        ],
+        [
             "What is the state animal of Missouri?",
             "Missouri Mule"
+        ],
+        [
+            "What is the state animal of Montana?",
+            "Grizzly Bear"
         ],
         [
             "What is the state animal of Nevada?",
@@ -1928,7 +2000,7 @@
         ],
         [
             "What is the state mammal of North Carolina?",
-            "Gray Squirrel"
+            "Grey Squirrel"
         ],
         [
             "What is the state animal of New Mexico?",
@@ -1937,6 +2009,10 @@
         [
             "What is the state animal of New York?",
             "Beaver"
+        ],
+        [
+            "What is the state animal of Oklahoma?",
+            "Buffalo"
         ],
         [
             "What is the state wild game animal of Kentucky?",
@@ -1971,6 +2047,10 @@
             "Rocky Mountain Elk"
         ],
         [
+            "What is the state animal of West Virginia?",
+            "Black Bear"
+        ],
+        [
             "What is the state animal of Wisconsin?",
             "Badger"
         ],
@@ -1991,12 +2071,24 @@
             "Alaskan Malamute"
         ],
         [
+            "What is the state dog of Louisiana?",
+            "Catahoula Leopard Dog"
+        ],
+        [
             "What is the state dog of Maryland?",
             "Chesapeake Bay Retriever"
         ],
         [
             "What is the state dog of Massachusetts?",
             "Boston Terrier"
+        ],
+        [
+            "What is the state dog of North Carolina?",
+            "Plott Hound"
+        ],
+        [
+            "What is the state dog of Pennsylvania?",
+            "Great Dane"
         ],
         [
             "What is the state dog of South Carolina?",
@@ -2015,8 +2107,16 @@
             "American Water Spaniel"
         ],
         [
+            "What is the state domestic animal of Wisconsin?",
+            "Dairy Cow"
+        ],
+        [
             "What is the state horse of Idaho?",
             "Appaloosa"
+        ],
+        [
+            "What is the state horse of Kentucky?",
+            "Thoroughbred"
         ],
         [
             "What is the state horse of Maryland?",
@@ -2071,6 +2171,14 @@
             "White-Tailed Deer"
         ],
         [
+            "What is the state mammal of Wyoming?",
+            "Buffalo"
+        ],
+        [
+            "What is the state marine animal of Delaware?",
+            "Horseshoe Crab"
+        ],
+        [
             "What is the state marine mammal of Alaska?",
             "Bowhead Whale"
         ],
@@ -2081,6 +2189,10 @@
         [
             "What is the state marine mammal of Florida?",
             "Manatee"
+        ],
+        [
+            "What is the state marine mammal of Hawaii?",
+            "Humpback Whale"
         ],
         [
             "What is the state marine mammal of Massachusetts?",
@@ -2097,6 +2209,10 @@
         [
             "What is the state wild animal of Tennessee?",
             "Raccoon"
+        ],
+        [
+            "What is the state wildlife animal of Delaware?",
+            "Grey Fox"
         ]
     ],
     "State Birds": [
