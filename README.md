@@ -30,7 +30,7 @@ According to the [Terms of Service](https://www.wizard101.com/game/termsofuse), 
 
 This means that other trivia bots, such as those based on browser automation or programmatically sending HTTP requests are explicitly against the TOS.
 
-This extension will **only** do the following:
+By default, this extension will **only** do the following:
 
 - Read the trivia question from the trivia site
 - Highlight the suggested answer
@@ -43,6 +43,10 @@ It will **not**:
 - Bypass the mandatory CAPTCHAs
 
 This extension serves as more of an answer suggester and does not perform any automated interactions with the site. To the best of my knowledge, this is fair game. There are many other legitimate extensions that constantly read the contents of webpages you visit and/or modify the webpage contents to serve their intended purpose - the idea is that once downloaded, the user is not obliged to render the HTML in any particular way.
+
+### Optional Auto-Clicker
+
+If you really want to fully automate the submission of answers, you can enable the **optional** auto-clicker. See PR [#3](https://github.com/zeyu2001/Ambrose/pull/3).
 
 ## How to Use
 
