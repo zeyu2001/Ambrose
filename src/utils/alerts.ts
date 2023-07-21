@@ -1,3 +1,6 @@
+import { autoClickEnabled, toggleAutoClick } from "./autoClick";
+
+
 const addErrorElement = (message: string) => {
     const errorElement:HTMLDivElement = document.createElement('div');
     errorElement.classList.add('p-2', 'bg-red-100', 'items-center', 'text-red-700', 'leading-none', 'lg:rounded-full', 'flex', 'lg:inline-flex');
@@ -12,6 +15,7 @@ const addErrorElement = (message: string) => {
     
     errorElement.appendChild(errorIcon);
     errorElement.appendChild(errorMessage);
+    errorElement.appendChild(getAutoClickButton());
 
     errorElement.style.position = 'fixed';
     errorElement.style.bottom = '0';
@@ -35,6 +39,7 @@ const addSuccessElement = (message: string) => {
     
     errorElement.appendChild(errorIcon);
     errorElement.appendChild(errorMessage);
+    errorElement.appendChild(getAutoClickButton())
 
     errorElement.style.position = 'fixed';
     errorElement.style.bottom = '0';
@@ -43,5 +48,21 @@ const addSuccessElement = (message: string) => {
 
     document.body.appendChild(errorElement);
 }
+
+const getAutoClickButton = () => {
+	let isEnabled = autoClickEnabled();
+	const toggleButton = document.createElement("button");
+	toggleButton.classList.add("mx-2", "font-semibold");
+	toggleButton.innerHTML = getAutoClickLabel(isEnabled);
+	toggleButton.setAttribute("title", "Warning: auto-click feature Violates TOS");
+	toggleButton.addEventListener("click", () => {
+		isEnabled = !isEnabled;
+		toggleButton.innerHTML = getAutoClickLabel(isEnabled);
+		toggleAutoClick(isEnabled);
+	});
+	return toggleButton;
+};
+
+const getAutoClickLabel = (enabled: boolean) => `${enabled ? "Disable" : "Enable"} auto-click (page refresh required)`;
 
 export { addErrorElement, addSuccessElement };
