@@ -46,7 +46,7 @@ This extension serves as more of an answer suggester and does not perform any au
 
 ### Optional Auto-Clicker
 
-If you really want to fully automate the submission of answers, you can enable the **optional** auto-clicker. See PR [#3](https://github.com/zeyu2001/Ambrose/pull/3).
+If you really want to fully automate the submission of answers, you can enable the **optional** auto-clicker. See PR [#3](https://github.com/zeyu2001/Ambrose/pull/3). **Note that doing this would be against the ToS.**
 
 ## How to Use
 
