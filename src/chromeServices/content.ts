@@ -1,6 +1,7 @@
 import { getScriptType } from "../utils/scriptType";
 import { addErrorElement, addSuccessElement } from "../utils/alerts";
 import { solveQuiz, getConfidence } from "../utils/quiz";
+import { autoClickEnabled } from "../utils/autoClick";
 
 (() => {
 
@@ -78,6 +79,12 @@ import { solveQuiz, getConfidence } from "../utils/quiz";
         const {answer, confidence} = quizAnswer;
 
         if (confidence > 50) {
+            if (autoClickEnabled()) {
+				(answer.children[0]?.children[0] as any).click();
+				setTimeout(() => {
+					document.getElementById("nextQuestion")?.click();
+				}, 300);
+			}
 
             answer.classList.add('font-bold', 'text-green-700');
             const confidenceSpan = document.createElement('span');
