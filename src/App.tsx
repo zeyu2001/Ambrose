@@ -7,6 +7,13 @@ const BASE_URL = 'https://www.wizard101.com/quiz/trivia/game';
 const TRIVIA_COOLDOWN_HOURS = 22
 const quizAnswers = require('./data/answers.json');
 
+const quizesWithoutTriviaSuffix = new Set(["Famous World Leaders", "Famous Poets"])
+
+function getLink(quizName: string) {
+  const hasTriviaSuffix = !quizesWithoutTriviaSuffix.has(quizName)
+  return `${BASE_URL}/${quizName.toLowerCase().split(' ').join('-')}${hasTriviaSuffix ? "-trivia" : ""}`
+}
+
 const FaviconImg = () => {
   return (
     <img className={`w-16 h-16`} src="./assets/img/favicon.png" alt="Ambrose" />
@@ -19,7 +26,7 @@ const QuizRow = ({ quiz, lastAttempted }: { quiz: string, lastAttempted: number 
     if (isCooldownOver) {
       return (
         <>
-          <a href={`${BASE_URL}/${quiz.toLowerCase().split(' ').join('-')}-trivia`}
+          <a href={getLink(quiz)}
             target="_blank"
             className="hover:text-yellow-900 font-bold hover:font-extrabold"
           >
@@ -30,7 +37,7 @@ const QuizRow = ({ quiz, lastAttempted }: { quiz: string, lastAttempted: number 
     } else {
       return (
         <>
-          <a href={`${BASE_URL}/${quiz.toLowerCase().split(' ').join('-')}-trivia`}
+          <a href={getLink(quiz)}
             target="_blank"
             className="text-red-700 hover:text-red-900 font-bold hover:font-extrabold"
           >
