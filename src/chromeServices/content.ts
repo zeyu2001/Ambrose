@@ -77,13 +77,20 @@ import { autoClickEnabled } from "../utils/autoClick";
         }
 
         const {answer, confidence} = quizAnswer;
-
+		
+		function getRandom(min, max) {
+  		const minCeiled = Math.ceil(min);
+  		const maxFloored = Math.floor(max);
+  		return Math.floor(Math.random() * (maxFloored - minCeiled + 1) + minCeiled); 
+		// The maximum and the minimum are inclusive
+		}
+		
         if (confidence > 50) {
             if (autoClickEnabled()) {
 				(answer.children[0]?.children[0] as any).click();
 				setTimeout(() => {
 					document.getElementById("nextQuestion")?.click();
-				}, 300);
+				}, getRandom(1500, 5000);
 			}
 
             answer.classList.add('font-bold', 'text-green-700');
